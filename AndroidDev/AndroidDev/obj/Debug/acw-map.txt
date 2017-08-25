@@ -1,0 +1,4 @@
+AndroidDev.MainActivity, AndroidDev;md54f032d3cb958e58b2a4bc47b7c8ed52f.MainActivity
+AndroidDev.MainActivity, AndroidDev, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54f032d3cb958e58b2a4bc47b7c8ed52f.MainActivity
+AndroidDev.MainActivity;md54f032d3cb958e58b2a4bc47b7c8ed52f.MainActivity
+androiddev.MainActivity;md54f032d3cb958e58b2a4bc47b7c8ed52f.MainActivity

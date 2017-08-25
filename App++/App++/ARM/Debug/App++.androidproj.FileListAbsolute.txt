@@ -1,0 +1,6 @@
+c:\users\exploi8\source\repos\App++\App++\ARM\Debug\App__.apk.recipe
+c:\users\exploi8\source\repos\App++\App++\ARM\Debug\App__.apk.recipe.merged
+c:\users\exploi8\source\repos\App++\App++\ARM\Debug\Package\src\com\App++\App__.java
+c:\users\exploi8\source\repos\App++\App++\ARM\Debug\FileStringReplace.incremental
+c:\users\exploi8\source\repos\App++\App++\ARM\Debug\App__.apk
+c:\users\exploi8\source\repos\App++\App++\ARM\Debug\App__.lastsuccessfuldeploy

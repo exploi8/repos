@@ -1,0 +1,15 @@
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\bin\Debug\AndroidDev.dll
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\bin\Debug\AndroidDev.pdb
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\bin\Debug\AndroidDev.AndroidDev.apk
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\bin\Debug\AndroidDev.AndroidDev-Signed.apk
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\AndroidDev.csprojResolveAssemblyReference.cache
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\AndroidDev.csproj.CoreCompileInputs.cache
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\AndroidDev.dll
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\AndroidDev.pdb
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\android\bin\AndroidDev.AndroidDev.apk
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\res\layout\main.xml
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\res\values\strings.xml
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\R.cs.flag
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\uploadflags.txt
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\bin\Debug\AndroidDev.dll.mdb
+c:\users\exploi8\source\repos\AndroidDev\AndroidDev\obj\Debug\android\assets\AndroidDev.dll.mdb

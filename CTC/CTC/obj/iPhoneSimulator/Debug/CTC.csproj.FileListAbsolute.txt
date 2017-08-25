@@ -1,0 +1,10 @@
+C:\Users\Exploi8\source\repos\CTC\CTC\bin\iPhoneSimulator\Debug\CTC.exe
+C:\Users\Exploi8\source\repos\CTC\CTC\bin\iPhoneSimulator\Debug\CTC.pdb
+C:\Users\Exploi8\source\repos\CTC\CTC\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Exploi8\source\repos\CTC\CTC\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Exploi8\source\repos\CTC\CTC\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Exploi8\source\repos\CTC\CTC\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Exploi8\source\repos\CTC\CTC\obj\iPhoneSimulator\Debug\CTC.csprojResolveAssemblyReference.cache
+C:\Users\Exploi8\source\repos\CTC\CTC\obj\iPhoneSimulator\Debug\CTC.csproj.CoreCompileInputs.cache
+C:\Users\Exploi8\source\repos\CTC\CTC\obj\iPhoneSimulator\Debug\CTC.exe
+C:\Users\Exploi8\source\repos\CTC\CTC\obj\iPhoneSimulator\Debug\CTC.pdb
